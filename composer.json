@@ -1,17 +1,17 @@
 {
     "name": "tobyokeke/voyager",
-    "description": "A Laravel Admin Package for The Control Group to make your life easier and steer your project in the right direction",
+    "description": "A Laravel Admin Package by The Control Group supercharged with new features",
     "keywords": ["laravel", "admin", "panel"],
     "license": "MIT",
-    "homepage": "https://voyager.devdojo.com/",
+    "homepage": "https://tobyokeke.com/voyager",
     "support": {
-        "issues": "https://github.com/the-control-group/voyager/issues",
-        "source": "https://github.com/the-control-group/voyager"
+        "issues": "https://github.com/tobyokeke/voyager/issues",
+        "source": "https://github.com/tobyokeke/voyager"
     },
     "authors": [
         {
-            "name": "Tony Lea",
-            "email": "tony.lea@thecontrolgroup.com"
+            "name": "Toby Okeke",
+            "email": "toby.okeke@gmail.com"
         }
     ],
     "require": {
